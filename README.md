@@ -1,5 +1,5 @@
 # SentimentAnalysis
-Sentiment Analysis using BLSTMs and CNNs in Keras
+Sentiment Analysis on the Sentiment140 dataset of Tweets using BLSTMs, Attention mechanisms, and CNNs in Keras. Includes experimental Notebooks on positional encoding which do not require the use of any recurrent layers.
 
 # Training Data
 You can download the Sentiment140 dataset [here](http://help.sentiment140.com/for-students/).
